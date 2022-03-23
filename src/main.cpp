@@ -2,5 +2,7 @@
 #include "fun.h"
 
 int main() {
-    return 0;
+    int a = 5;
+    int b = 10;
+    return power(a,b);
 }
